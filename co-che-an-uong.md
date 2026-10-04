@@ -28,6 +28,7 @@ Nền chung cho cả bảy là **cơ chế gốc: Tỳ Vị vận hoá**.
 ## Cơ chế gốc: Tỳ Vị vận hoá
 
 ### Đông lý
+
 - *Tố Vấn, "Linh lan bí điển luận"*: **"Tỳ Vị giả, thương lẫm chi quan, ngũ vị xuất yên"**: Tỳ Vị là quan coi kho lương, ngũ vị từ đó mà ra.
 - *Tố Vấn, "Kinh mạch biệt luận"* mô tả đường đi của thức ăn uống: vào Vị, tinh khí được đưa lên Tỳ, Tỳ tán tinh lên Phế, rồi phân bố khắp thân. *(Cần đối chiếu nguyên văn.)*
 - Lý Đông Viên (*Tỳ Vị luận*, đời Kim Nguyên): **"Nội thương Tỳ Vị, bách bệnh do sinh"**: Tỳ Vị tổn thương bên trong thì trăm bệnh sinh ra.
@@ -75,6 +76,7 @@ Câu này cho một **thứ bậc**: hạt là gốc, rau quả bổ sung, thị
 **Tầng được nuôi:** Thân ●●●, Khí ●.
 
 **Trong app:**
+
 - Mô hình **"đĩa cơm Việt"** ✎: nửa đĩa rau, một phần tư cơm hoặc tinh bột (ưu tiên ít xay xát), một phần tư đạm (cá, đậu, trứng, thịt), kèm canh. Cần bác sĩ dinh dưỡng chốt tỷ lệ, có thể tham khảo Tháp dinh dưỡng của Viện Dinh dưỡng.
 - Check-in nhanh: **"Hôm nay bạn ăn rau mấy bữa?"** (0, 1, 2, 3+). Dễ trả lời hơn đếm gam.
 - Lời khuyên tiệm tiến: thêm một nắm rau vào bữa trưa; đổi một phần cơm trắng thành gạo lứt hoặc khoai.
@@ -84,6 +86,7 @@ Câu này cho một **thứ bậc**: hạt là gốc, rau quả bổ sung, thị
 ### Cơ chế 2. Ngũ vị điều hoà: mặn, ngọt, béo
 
 **Đông lý.**
+
 - *Tố Vấn, "Tuyên minh ngũ khí"*: **"Toan nhập Can, khổ nhập Tâm, cam nhập Tỳ, tân nhập Phế, hàm nhập Thận"**: chua vào Can, đắng vào Tâm, ngọt vào Tỳ, cay vào Phế, mặn vào Thận.
 - *Tố Vấn, "Sinh khí thông thiên luận"*: **"Âm chi sở sinh, bản tại ngũ vị; âm chi ngũ cung, thương tại ngũ vị"**: âm sinh ra từ ngũ vị, mà năm tạng cũng bị hại bởi ngũ vị. Đủ vị thì nuôi, lệch vị thì hại.
 - *Tố Vấn, "Ngũ tạng sinh thành"* mô tả hậu quả ăn thiên một vị, ví dụ **ăn mặn nhiều thì "mạch ngưng sáp"** (mạch đi rít, ứ). *(Cần đối chiếu nguyên văn.)*
@@ -103,6 +106,7 @@ Câu này cho một **thứ bậc**: hạt là gốc, rau quả bổ sung, thị
 **Tầng được nuôi:** Thân ●●● (huyết áp, chuyển hoá), Khí ● (tránh dao động đường huyết).
 
 **Trong app:**
+
 - Hai lời khuyên ưu tiên cho người Việt: **giảm mặn** và **giảm nước ngọt**. Đây là hai lời khuyên C1 có tác động lớn nhất.
 - Mẹo cụ thể theo văn hoá Việt ✎: chấm nước mắm pha loãng thay vì rót thẳng; không chan nước mắm vào cơm; ăn ít nước dùng mì, phở; giảm bột canh, hạt nêm; thay nước ngọt bằng trà, nước lọc.
 - Giải thích Ngũ vị như **hình ảnh văn hoá** [C3]: "người xưa nói vị mặn vào Thận, ăn mặn quá thì mạch rít; ngày nay khoa học xác nhận ăn mặn làm tăng huyết áp [C1]". Khuôn mẫu "người xưa dạy… khoa học cũng thấy…" chỉ dùng khi phía Tây chứng thật sự có bằng chứng.
@@ -128,6 +132,7 @@ Bữa cơm Việt đã có sẵn **phép phối hàn nhiệt**: ăn ốc, cua c�
 **Vì sao vẫn giữ:** đây là ngôn ngữ người Việt dùng hằng ngày ("ăn nhiều nhãn nóng người"). Bỏ đi thì mất gần gũi. Giữ lại thì **luôn gắn nhãn C3** và **không bao giờ dùng để thay lời khuyên C1**.
 
 **Trong app:**
+
 - **Bước lọc thể chất bắt buộc** (lý luận mục V): món ôn nhiệt không gợi ý mạnh cho xu hướng Âm hư, Thấp nhiệt; món hàn lương không gợi ý mạnh cho xu hướng Dương hư, Khí hư.
 - Gợi ý **theo mùa và miền** ✎: hè miền Bắc và mùa khô miền Nam thêm canh bí, canh rau má; đông miền Bắc, vùng cao thêm gừng, sả.
 - **Không bán, không gợi ý dược liệu** trong phiên bản đầu. Chỉ dừng ở thực phẩm thông thường.
@@ -139,6 +144,7 @@ Bữa cơm Việt đã có sẵn **phép phối hàn nhiệt**: ăn ốc, cua c�
 ### Cơ chế 4. Ẩm thực hữu tiết: lượng, tốc độ, chú tâm
 
 **Đông lý.**
+
 - *Thượng cổ thiên chân luận*: **"Ẩm thực hữu tiết"**: ăn uống có chừng mực.
 - *Tố Vấn, "Tý luận"*: **"Ẩm thực tự bội, trường vị nãi thương"**: ăn gấp bội thì tràng vị tổn thương.
 - Kinh nghiệm dân gian và sách dưỡng sinh: **ăn bảy, tám phần no**; ăn chậm nhai kỹ.
@@ -157,12 +163,14 @@ Bữa cơm Việt đã có sẵn **phép phối hàn nhiệt**: ăn ốc, cua c�
 | Hạn chế năng lượng vừa phải (thử nghiệm CALERIE) cải thiện một số chỉ dấu chuyển hoá ở người khoẻ | C2 |
 
 **Nối với trụ khác:**
+
 - **Thiền:** ăn chánh niệm là thiền trong bữa ăn.
 - **Cảm xúc:** ăn để xoa dịu cảm xúc (ăn theo cảm xúc) là đường nối giữa Hỏa và Thổ. Khi người dùng nhiều lần ghi "ăn vì buồn, căng thẳng", app gợi ý sang trụ Cảm xúc thay vì chỉ khuyên ăn ít lại.
 
 **Tầng được nuôi:** Thân ●●, Khí ●●, Tâm ● (qua ăn chú tâm).
 
 **Trong app:**
+
 - Check-in: **"Sau bữa chính hôm nay, bạn thấy: nhẹ, vừa, hơi no căng, rất no?"**
 - Thực hành ngắn ✎: **"Ba miếng đầu chánh niệm"**: ba miếng đầu tiên nhai chậm, cảm nhận vị, không xem điện thoại.
 - **Tuyệt đối không đếm calo** ở phiên bản đầu và không đặt mục tiêu cân nặng. Cách này giảm rủi ro rối loạn ăn uống và hợp tinh thần "trung độ" (xem cờ đỏ).
@@ -172,6 +180,7 @@ Bữa cơm Việt đã có sẵn **phép phối hàn nhiệt**: ăn ốc, cua c�
 ### Cơ chế 5. Thuận thời: giờ ăn và bữa tối
 
 **Đông lý.**
+
 - Thiên nhân hợp nhất: ban ngày dương khí vượng thì vận hoá mạnh; ban đêm dương khí thu tàng thì vận hoá chậm.
 - Giờ Thìn (7–9h) là giờ kinh Vị vượng, giờ Tỵ (9–11h) là giờ kinh Tỳ vượng theo *Tý Ngọ lưu chú* [C3]. Vì vậy dân gian coi trọng bữa sáng.
 - *Tố Vấn, "Nghịch điều luận"*: **"Vị bất hoà tắc ngọa bất an"**: dạ dày không yên thì ngủ không yên. Ăn khuya, ăn no sát giờ ngủ là trái thời.
@@ -190,6 +199,7 @@ Bữa cơm Việt đã có sẵn **phép phối hàn nhiệt**: ăn ốc, cua c�
 **Tầng được nuôi:** Thân ●●, Thần ● (qua giấc ngủ).
 
 **Trong app:**
+
 - Chỉ báo dễ đo: **giờ ăn xong bữa cuối** so với giờ đi ngủ (lấy từ trụ Ngủ nghỉ).
 - Lời khuyên C1: ăn xong bữa tối trước giờ ngủ ít nhất 2–3 tiếng; bữa tối nhẹ hơn bữa trưa.
 - **Không quảng bá nhịn ăn gián đoạn** như phương pháp dưỡng sinh. Nếu người dùng tự chọn, phải qua khoá an toàn (thai kỳ, đái tháo đường dùng thuốc, tiền sử rối loạn ăn uống, dưới 18 tuổi).
@@ -217,6 +227,7 @@ Bữa cơm Việt đã có sẵn **phép phối hàn nhiệt**: ăn ốc, cua c�
 **Tầng được nuôi:** Khí ● (tỉnh táo, tránh mất nước), Thần ● (qua giấc ngủ, khi dùng đúng giờ).
 
 **Trong app:**
+
 - Check-in: số ly cà phê, trà, nước ngọt; **giờ của ly cà phê cuối**.
 - Nối trụ Ngủ nghỉ: nếu điểm ngủ thấp và ly cà phê cuối muộn hơn khoảng 6 tiếng trước giờ ngủ, gợi ý **dời ly cuối lên sớm** trước khi gợi ý điều gì khác. Đây là ví dụ của nguyên tắc "gốc của vấn đề có thể nằm ở trụ khác" (lý luận mục IV.3).
 - Không nói "cà phê có hại". Nói về **liều và giờ**.
@@ -226,6 +237,7 @@ Bữa cơm Việt đã có sẵn **phép phối hàn nhiệt**: ăn ốc, cua c�
 ### Cơ chế 7. Tửu và yên: rượu, thuốc lá
 
 **Đông lý.**
+
 - *Thượng cổ thiên chân luận* chê người đời sau **"dĩ tửu vi tương, dĩ vọng vi thường, tuý dĩ nhập phòng"**: lấy rượu làm nước uống, lấy càn bậy làm thường, say rồi vào phòng, nên sống chưa đến nửa đời đã suy.
 - Rượu tính nhiệt, có độc, sinh **thấp nhiệt**, tổn **Can, Tỳ** [C3 về cơ chế].
 - Thuốc lá (yên): nhiệt độc, tổn **Phế** ✎.
@@ -242,6 +254,7 @@ Bữa cơm Việt đã có sẵn **phép phối hàn nhiệt**: ăn ốc, cua c�
 **Tầng được nuôi (khi giảm hoặc bỏ):** Thân ●●●, Khí ●●, Thần ● (giấc ngủ).
 
 **Trong app:**
+
 - Thông điệp trung thực: **"Ít hơn thì tốt hơn"** với rượu. **Không bao giờ** nói "uống rượu vừa phải tốt cho tim" hay quảng bá rượu thuốc, rượu ngâm như dưỡng sinh.
 - Văn hoá nhậu, cỗ bàn, tiếp khách: gợi ý thực tế ✎ (xen nước lọc, ăn trước khi uống, đặt giới hạn trước, có ngày không uống trong tuần). Đây là điểm giao với trụ **Môi trường xã hội**.
 - Thuốc lá: không tự xây chương trình cai thuốc ở phiên bản đầu; **chuyển tiếp** đến dịch vụ tư vấn cai thuốc đã được xác minh tại Việt Nam.
@@ -296,15 +309,18 @@ Theo nguyên tắc đo của lý luận (mục II): nhanh, ít gánh nặng, kh�
 Câu 4–6 có thể bật tắt; người dùng chọn theo trọng tâm tuần (tiệm tiến).
 
 ### Hằng tuần
+
 - **Tín hiệu Tỳ Vị tự cảm nhận** (0–10): ăn ngon miệng, tiêu hoá nhẹ, đại tiện đều, không đầy bụng.
 - **Ăn mặn**: số bữa có chấm, chan nước mắm nhiều; số lần ăn mì gói, đồ chế biến sẵn.
 
 ### Định kỳ (đề xuất, cần chuyên gia chọn công cụ đã thẩm định tiếng Việt)
+
 - Bảng tần suất thực phẩm rút gọn.
 - **AUDIT-C** (3 câu sàng lọc rượu) nếu người dùng có uống rượu.
 - Sàng lọc rối loạn ăn uống ngắn (ví dụ SCOFF) trước khi bật bất kỳ tính năng nào liên quan cân nặng.
 
 ### Không đo
+
 - **Không đếm calo, không chấm điểm món ăn "tốt/xấu"**, không đặt mục tiêu cân nặng ở phiên bản đầu.
 - Không chụp ảnh món ăn để AI chấm điểm (độ chính xác thấp, dễ gây lo âu).
 
@@ -326,6 +342,7 @@ Bổ sung vào mục X của lý luận. **Cần bác sĩ và chuyên gia dinh d
 
 ### Chế độ ăn cực đoan
 Lục Dưỡng **không khuyến nghị** và sẽ **cảnh báo** khi người dùng theo:
+
 - Chế độ chỉ ăn một loại (ví dụ chỉ gạo lứt muối mè kéo dài). Đã có những ca suy dinh dưỡng, tổn thương nặng khi áp dụng cực đoan.
 - Nhịn ăn nhiều ngày, "thải độc" bằng nước ép hay thực phẩm chức năng.
 - **Bỏ thuốc điều trị** để chữa bệnh bằng ăn uống.
@@ -365,12 +382,14 @@ Người uống rượu, hút thuốc: ưu tiên cơ chế 7 sớm, vì tác đ�
 ## Việc cần hội đồng thẩm định
 
 **Lương y:**
+
 1. Đối chiếu nguyên văn: *Linh lan bí điển luận*, *Kinh mạch biệt luận*, *Tạng khí pháp thời luận*, *Tuyên minh ngũ khí*, *Sinh khí thông thiên luận*, *Ngũ tạng sinh thành*, *Kỳ bệnh luận*, *Chí chân yếu đại luận*, *Tý luận*, *Nghịch điều luận*, *Thượng cổ thiên chân luận*; xuất xứ câu "hữu Vị khí tắc sinh".
 2. Bảng tính vị (hàn nhiệt) của thực phẩm Việt thông dụng; phép phối hàn nhiệt trong bữa cơm Việt.
 3. Nguyên văn về ăn uống trong "Vệ sinh yếu quyết" (Hải Thượng Lãn Ông) và trước tác của Tuệ Tĩnh.
 4. Gợi ý theo mùa cho miền Bắc, miền Nam, vùng cao.
 
 **Bác sĩ, chuyên gia dinh dưỡng:**
+
 5. Tỷ lệ "đĩa cơm Việt"; đối chiếu Tháp dinh dưỡng và Lời khuyên dinh dưỡng hợp lý của Viện Dinh dưỡng Quốc gia.
 6. Số liệu mới nhất về muối, đường, rượu bia, thuốc lá ở người Việt.
 7. Lượng caffeine, đường trong các thức uống phổ biến (cà phê sữa đá, trà sữa).
@@ -379,4 +398,5 @@ Người uống rượu, hút thuốc: ưu tiên cơ chế 7 sớm, vì tác đ�
 10. Xếp cấp C1/C2/C3 cho từng khẳng định trong tài liệu này.
 
 **Chuyên gia tâm lý:**
+
 11. Rủi ro rối loạn ăn uống khi theo dõi ăn uống; cách nói không gây mặc cảm.
