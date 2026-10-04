@@ -38,6 +38,7 @@ Nền chung cho cả bảy là **cơ chế gốc: Tỳ Vị vận hoá**.
 Tỳ **ưa táo, ghét thấp**. Ăn nhiều đồ sống lạnh, ngọt béo, ăn quá no làm Tỳ bị **thấp khốn**: nặng nề, đầy bụng, mệt mỏi, đầu nặng.
 
 ### Tây chứng
+
 | Hiện tượng hiện đại | Tương ứng cổ truyền | Cấp |
 |---|---|---|
 | Tiêu hoá, hấp thu cung cấp năng lượng và nguyên liệu cho mọi mô | Tỳ Vị là nguồn sinh hoá khí huyết | C1 |
@@ -59,6 +60,7 @@ Mọi lời khuyên của trụ Ăn uống đều trả lời một câu: **vi�
 Câu này cho một **thứ bậc**: hạt là gốc, rau quả bổ sung, thịt chỉ "ích" chứ không phải chính. Đây là khung rất gần với bữa cơm Việt truyền thống: cơm, canh rau, một món mặn vừa phải.
 
 **Tây chứng.**
+
 | Khuyến nghị hiện đại | Khớp với kinh điển | Cấp |
 |---|---|---|
 | Rau và quả ít nhất **400 g/ngày** (WHO) | Ngũ quả vi trợ, ngũ thái vi sung | C1 |
@@ -112,6 +114,7 @@ Câu này cho một **thứ bậc**: hạt là gốc, rau quả bổ sung, thị
 **Đông lý.** Mỗi thực phẩm có **tính** (hàn, lương, bình, ôn, nhiệt) và **vị**. Nguyên tắc trị pháp: **"hàn giả nhiệt chi, nhiệt giả hàn chi"** (*Tố Vấn, "Chí chân yếu đại luận"*): lạnh thì dùng nóng, nóng thì dùng lạnh. Áp dụng cho dưỡng sinh: người thiên hàn ăn đồ ấm, người thiên nhiệt ăn đồ mát; mùa hè thêm đồ mát, mùa đông thêm đồ ấm.
 
 Ví dụ thường dùng ở Việt Nam [C3]:
+
 | Tính | Ví dụ |
 |---|---|
 | Hàn, lương | Rau má, mướp đắng, bí đao, đậu xanh, cua, ốc, dưa hấu |
@@ -144,6 +147,7 @@ Bữa cơm Việt đã có sẵn **phép phối hàn nhiệt**: ăn ốc, cua c�
 **Chuỗi Đông lý:** ăn vừa đủ, ăn chậm → Tỳ Vị không bị quá tải → vận hoá trọn vẹn → không sinh thấp, đàm → thân nhẹ, khí thông.
 
 **Tây chứng.**
+
 | Hiện tượng | Cấp |
 |---|---|
 | Ăn quá nhu cầu năng lượng kéo dài dẫn đến tăng cân, béo phì, rối loạn chuyển hoá | C1 |
@@ -174,6 +178,7 @@ Bữa cơm Việt đã có sẵn **phép phối hàn nhiệt**: ăn ốc, cua c�
 - Dân gian: **"Sáng ăn như vua, trưa ăn như quan, tối ăn như dân"** (có nhiều dị bản).
 
 **Tây chứng (dinh dưỡng theo thời gian, chrononutrition).**
+
 | Hiện tượng | Cấp |
 |---|---|
 | Cơ thể có đồng hồ sinh học ở cả gan, ruột, tuỵ; dung nạp glucose **kém hơn vào buổi tối** so với buổi sáng | C1 (về sinh lý) |
@@ -199,6 +204,7 @@ Bữa cơm Việt đã có sẵn **phép phối hàn nhiệt**: ăn ốc, cua c�
 **Đông lý.** Tân dịch do Tỳ Vị sinh ra từ thuỷ cốc. Uống vừa đủ, uống ấm thì Tỳ dễ vận hoá; **uống nhiều đồ lạnh, đá** thì tổn Tỳ dương, sinh thấp [C3]. Trà là thức uống truyền thống của người Việt, tính lương, thanh nhiệt [C3].
 
 **Tây chứng.**
+
 | Chất | Hiện đại | Cấp |
 |---|---|---|
 | **Nước** | Nhu cầu thay đổi theo khí hậu, vận động; ở xứ nóng ẩm cần chú ý hơn. Mất nước nhẹ giảm tập trung, tăng mệt | C1 (mất nước) / C2 (tác động nhẹ lên nhận thức) |
@@ -226,6 +232,7 @@ Bữa cơm Việt đã có sẵn **phép phối hàn nhiệt**: ăn ốc, cua c�
 - Cả hai thuộc **bất nội ngoại nhân** (lý luận mục VI).
 
 **Tây chứng.**
+
 | Chất | Hiện đại | Cấp |
 |---|---|---|
 | **Rượu bia** | WHO (2023): **không có mức uống an toàn** cho sức khoẻ. Rượu là chất gây ung thư nhóm 1; gây bệnh gan, tăng huyết áp, rối loạn nhịp tim. Rượu giúp dễ vào giấc nhưng **làm vỡ giấc ngủ nửa đêm sau và giảm giấc REM** | C1 |
@@ -276,6 +283,7 @@ Bảng này khớp với bảng của lý luận v0.3 (Ăn uống: Thân ●●�
 Theo nguyên tắc đo của lý luận (mục II): nhanh, ít gánh nặng, không gộp điểm, xem xu hướng.
 
 ### Check-in hằng ngày (dưới 30 giây)
+
 | # | Câu hỏi | Trả lời | Cơ chế |
 |---|---|---|---|
 | 1 | Hôm nay bạn ăn rau mấy bữa? | 0 · 1 · 2 · 3+ | 1 |
@@ -307,6 +315,7 @@ Câu 4–6 có thể bật tắt; người dùng chọn theo trọng tâm tuần
 Bổ sung vào mục X của lý luận. **Cần bác sĩ và chuyên gia dinh dưỡng duyệt.**
 
 ### Cờ đỏ cần đi khám
+
 | Dấu hiệu | Hành động |
 |---|---|
 | Sụt cân không chủ ý (ví dụ trên 5% trong 6 tháng) | Khuyên đi khám |
@@ -324,6 +333,7 @@ Lục Dưỡng **không khuyến nghị** và sẽ **cảnh báo** khi người 
 Câu chuẩn trong app: *"Ăn uống là nền của sức khoẻ, nhưng không thay thế điều trị. Hãy giữ thuốc bác sĩ kê và trao đổi với bác sĩ trước khi thay đổi lớn chế độ ăn."*
 
 ### Khoá theo tình trạng (bổ sung)
+
 | Tình trạng | Khoá |
 |---|---|
 | Đái tháo đường đang dùng thuốc hạ đường huyết, insulin | Khoá gợi ý bỏ bữa, ăn khung giờ giới hạn (nguy cơ hạ đường huyết) |
