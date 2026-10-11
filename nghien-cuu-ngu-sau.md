@@ -233,7 +233,7 @@ Ngủ sâu (giai đoạn N3, sóng chậm) **không bật lên bằng một sả
 
 ### 6. Bản đồ sản phẩm theo đòn bẩy
 
-| Đòn bẩy | Sản phẩm, dịch vụ | Cấp | Ưu tiên cho Cội Wellness |
+| Đòn bẩy | Sản phẩm, dịch vụ | Cấp | Ưu tiên cho Trạm Hồi Sinh |
 |---|---|---|---|
 | Hạ nhiệt | Bộ ngâm chân (chậu, thảo mộc thơm nhẹ), ga gối cotton/lụa, tất mỏng | C2 | **Cao** |
 | Loại bỏ kẻ phá | Rèm cản sáng, mặt nạ ngủ, nút tai, máy tạo tiếng đều, máy hút ẩm, cà phê khử caffeine | C1–C2 | **Cao** |
@@ -245,7 +245,7 @@ Ngủ sâu (giai đoạn N3, sóng chậm) **không bật lên bằng một sả
 
 ---
 
-## Phần IV. Ứng dụng cho Cội Wellness
+## Phần IV. Ứng dụng cho Trạm Hồi Sinh
 
 ### 1. Tính năng "Ngủ sâu" ✎
 

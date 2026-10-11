@@ -1,6 +1,6 @@
 # Lời dẫn
 
-Bộ tài liệu này triển khai phần **Sáu phép dưỡng** trong *Lý luận Lục Dưỡng v0.3* thành **cơ chế thực hành**: mỗi việc làm hằng ngày tác động đến bốn tầng **Thân · Khí · Tâm · Thần** theo con đường nào, người xưa giải thích ra sao, y học hiện đại xác nhận đến đâu, và web app Cội Wellness đưa vào như thế nào.
+Bộ tài liệu này triển khai phần **Sáu phép dưỡng** trong *Lý luận Lục Dưỡng v0.3* thành **cơ chế thực hành**: mỗi việc làm hằng ngày tác động đến bốn tầng **Thân · Khí · Tâm · Thần** theo con đường nào, người xưa giải thích ra sao, y học hiện đại xác nhận đến đâu, và web app Trạm Hồi Sinh đưa vào như thế nào.
 
 > **Bản nháp v0.1**, ngày 04/10/2026. Tài liệu nội bộ, **chưa thẩm định**. Mọi trích dẫn kinh điển cần lương y đối chiếu nguyên văn. Mọi khuyến nghị, ngưỡng an toàn, cờ đỏ cần bác sĩ, chuyên gia dinh dưỡng, chuyên gia tâm lý lâm sàng duyệt. Các nghiên cứu và số liệu nêu tên chỉ để định hướng, cần kiểm tra lại trước khi trích dẫn công khai. **Lục Dưỡng không chẩn đoán, không chữa bệnh.**
 

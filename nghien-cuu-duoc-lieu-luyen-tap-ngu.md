@@ -12,7 +12,7 @@
 
 - Không có dược liệu nào "làm ngủ sâu" một cách chắc chắn. Bằng chứng tốt nhất chỉ ở mức **cải thiện chất lượng giấc ngủ tự đánh giá, hiệu quả nhỏ đến vừa** [C2].
 - Nhóm có bằng chứng tốt nhất: **toan táo nhân (bài Toan táo nhân thang)**, **hoa cúc La Mã**, **nữ lang (valerian)**, **tinh dầu oải hương uống dạng chuẩn hoá (cho lo âu kèm mất ngủ)**, **ashwagandha**.
-- Dược liệu Việt thường dùng (**tâm sen, lạc tiên, lá vông nem, lá dâu…**) có kinh nghiệm dân gian lâu đời nhưng **bằng chứng trên người rất ít** [C3]. Đây vừa là rủi ro, vừa là **cơ hội nghiên cứu** cho Cội Wellness.
+- Dược liệu Việt thường dùng (**tâm sen, lạc tiên, lá vông nem, lá dâu…**) có kinh nghiệm dân gian lâu đời nhưng **bằng chứng trên người rất ít** [C3]. Đây vừa là rủi ro, vừa là **cơ hội nghiên cứu** cho Trạm Hồi Sinh.
 - **Công cụ thiên nhiên không uống** (ngâm chân, xoa bóp, tinh dầu xông nhẹ, ánh sáng, thiên nhiên) **an toàn hơn và nên ưu tiên trước**.
 
 **Phần B. Luyện tập**
@@ -101,7 +101,7 @@ Trước khi xem từng vị, cần hiểu sáu vấn đề chung:
 | **Hoa nhài, hoa sen** | Hoa (ướp trà) | Thư giãn, thơm | Mùi hương có thể giúp thư giãn (bằng chứng nhỏ) | C3 | Trà ướp hoa vẫn có caffeine nếu là trà xanh, trà đen |
 | **Bình vôi** | Củ (*Stephania*) | An thần, giảm đau | Chứa rotundin (L-tetrahydropalmatine) có tác dụng an thần | — | **Không dùng như thực phẩm**: rotundin là **hoạt chất thuốc**, đã có báo cáo ngộ độc, tổn thương gan với L-tetrahydropalmatine ở nước ngoài [cần kiểm tra]; chỉ dùng theo chỉ định |
 
-**Kết luận cho dược liệu Việt:** đây là khoảng trống bằng chứng lớn. Cội Wellness có thể **hợp tác viện nghiên cứu, trường y dược** để làm thử nghiệm có đối chứng (lý luận mục IX, bậc 4), ví dụ trà tâm sen hoặc lạc tiên chuẩn hoá. Đây là cách hiện thực hoá **"Nam dược trị Nam nhân"** theo chuẩn hiện đại.
+**Kết luận cho dược liệu Việt:** đây là khoảng trống bằng chứng lớn. Trạm Hồi Sinh có thể **hợp tác viện nghiên cứu, trường y dược** để làm thử nghiệm có đối chứng (lý luận mục IX, bậc 4), ví dụ trà tâm sen hoặc lạc tiên chuẩn hoá. Đây là cách hiện thực hoá **"Nam dược trị Nam nhân"** theo chuẩn hiện đại.
 
 ## A5. Những dược liệu và sản phẩm cần tránh
 
@@ -215,7 +215,7 @@ CBT-I là "luyện tập cho chính giấc ngủ", có bằng chứng mạnh nh�
 | **Nhận thức** | Thay suy nghĩ "phải ngủ đủ 8 tiếng", "mất ngủ sẽ hỏng hết ngày mai" | Có, ở mức giáo dục |
 | **Hạn chế, cô đặc giấc ngủ** | Giới hạn thời gian nằm giường bằng thời gian ngủ thực, rồi tăng dần | **Chỉ dưới hướng dẫn chuyên môn** (chống chỉ định ở người động kinh, rối loạn lưỡng cực, lái xe nghề, ngưng thở khi ngủ chưa điều trị…) |
 
-→ Cội Wellness nên **hợp tác chương trình CBT-I số có chuyên gia giám sát** cho người mất ngủ mạn tính, thay vì tự làm toàn bộ.
+→ Trạm Hồi Sinh nên **hợp tác chương trình CBT-I số có chuyên gia giám sát** cho người mất ngủ mạn tính, thay vì tự làm toàn bộ.
 
 ## B6. Chương trình luyện tập 8 tuần cho giấc ngủ sâu ✎
 

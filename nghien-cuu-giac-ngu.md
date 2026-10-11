@@ -17,7 +17,7 @@
 9. Các rối loạn giấc ngủ thường gặp
 10. Can thiệp theo cấp bằng chứng
 11. Đo lường giấc ngủ
-12. Ứng dụng cho Cội Wellness
+12. Ứng dụng cho Trạm Hồi Sinh
 13. Câu hỏi nghiên cứu mở cho Lục Dưỡng
 14. Nguồn
 
@@ -309,7 +309,7 @@ Cổ truyền chia mất ngủ thành hai nhóm lớn:
 
 ---
 
-## 12. Ứng dụng cho Cội Wellness ✎
+## 12. Ứng dụng cho Trạm Hồi Sinh ✎
 
 ### 12.1. Phân loại người dùng theo vấn đề giấc ngủ
 Thay vì một lộ trình chung, app phân người dùng vào **năm kiểu** dựa trên nhật ký 1–2 tuần và bảng hỏi:
